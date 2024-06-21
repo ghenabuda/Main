@@ -1,44 +1,78 @@
 VERSION="2.2.1"
 
 ACCOUNTS=[
-"GAVKJUTEUK7JUUQFYNCIJOJVS4NSU63YCAGMUVTSMGUN5CA4XEEFIETQ",
-"GBEI5MSYFGDTYBVLZZX6H2MOFHLDJ2IJZ3SQAQZE5YDEUAZJ5JWCF2IZ",
-"GDA4Q3U44CVOA72CG6YQVD2UX7DUQL3GR5UHI2LMK5Y42RRLKFPZCBTC",
+"GB3BCG256DVWGBKEYMB2PEMUCHQYLAG7PBULLEFP73FSQTLY4VCQLQN2",
+"GCL62M7543AFSHALW2B7HJXIHB75NYOU4PZYOZMOYAOZCKCRI3S4F7EH",
+"GBI2W5CHBWAL2ACQVIE64RKW3WUUIHSIMACSRQ77RBDEMSLT6IBDKI5A",
+"GA3QHC2OXITTHJOG4WBUONCRWDHLJG3LWFN72LANT6OBD4UYG2RTBMOF",
+"GDR7ZWCRVXYOML52457TZGRYMCQ6G6MBQXL4VNVQN4XSUMI4QQLDMMPE",
+"GBLGPPPLB5SOCOBKEIECJEX2CQ2QZ3Y6CXZ2ZH2WRNVPXK76RGC4RITZ",
 ]
 
 [DOCUMENTATION]
-ORG_NAME="CashApp"
-ORG_URL="https://www.capp-stellar.org/"
-ORG_DESCRIPTION="Cash App is a mobile payment service available in the United States and the United Kingdom that allows users to transfer money to one another using a mobile phone app."
-ORG_LOGO="https://www.capp-stellar.org/capp.png"
+ORG_NAME="Marriott"
+ORG_URL="https://www.marriottxlm.org/"
+ORG_DESCRIPTION="Marriott Hotels & Resorts is Marriott International's brand of full-service hotels and resorts."
+ORG_LOGO="https://www.marriottxlm.org/mrt.png"
 
 
 [[CURRENCIES]]
-code="CAXLM"
+code="Marriott"
 status="live"
-display_decimals=3
-issuer="GAVKJUTEUK7JUUQFYNCIJOJVS4NSU63YCAGMUVTSMGUN5CA4XEEFIETQ"
+display_decimals=2
+issuer="GB3BCG256DVWGBKEYMB2PEMUCHQYLAG7PBULLEFP73FSQTLY4VCQLQN2"
 anchor_asset_type="crypto"
-name="CashApp XLM"
-desc="Cash App, the pioneering digital payment platform, is here to revolutionize your investment game with its very own digital asset, CAXLM!"
-image="https://www.capp-stellar.org/capp.png"
+name="Marriott"
+desc="Marriott Hotels & Resorts is Marriott International's brand of full-service hotels and resorts."
+image="https://www.marriottxlm.org/mrt.png"
 
 [[CURRENCIES]]
-code="CXRP"
+code="MBR"
 status="live"
 display_decimals=3
-issuer="GBEI5MSYFGDTYBVLZZX6H2MOFHLDJ2IJZ3SQAQZE5YDEUAZJ5JWCF2IZ"
+issuer="GCL62M7543AFSHALW2B7HJXIHB75NYOU4PZYOZMOYAOZCKCRI3S4F7EH"
 anchor_asset_type="crypto"
-name="CashApp XRP"
-desc="Cash App, the pioneering digital payment platform, is here to revolutionize your investment game with its very own digital asset, CXRP!"
-image="https://www.capp-stellar.org/cxrp.png"
+name="Marriott Member"
+desc="Marriott Hotels & Resorts is Marriott International's brand of full-service hotels and resorts."
+image="https://www.marriottxlm.org/mbr.png"
 
 [[CURRENCIES]]
-code="CBTC"
+code="MSE"
 status="live"
-display_decimals=3
-issuer="GDA4Q3U44CVOA72CG6YQVD2UX7DUQL3GR5UHI2LMK5Y42RRLKFPZCBTC"
+display_decimals=4
+issuer="GBI2W5CHBWAL2ACQVIE64RKW3WUUIHSIMACSRQ77RBDEMSLT6IBDKI5A"
 anchor_asset_type="crypto"
-name="CashApp BTC"
-desc="Cash App, the pioneering digital payment platform, is here to revolutionize your investment game with its very own digital asset, CBTC!"
-image="https://www.capp-stellar.org/cbtc.png"
+name="Marriott Silver Elite"
+desc="Marriott Hotels & Resorts is Marriott International's brand of full-service hotels and resorts."
+image="https://www.marriottxlm.org/mse.png"
+
+[[CURRENCIES]]
+code="MGE"
+status="live"
+display_decimals=2
+issuer="GA3QHC2OXITTHJOG4WBUONCRWDHLJG3LWFN72LANT6OBD4UYG2RTBMOF"
+anchor_asset_type="crypto"
+name="Marriott Gold Elite"
+desc="Marriott Hotels & Resorts is Marriott International's brand of full-service hotels and resorts."
+image="https://www.marriottxlm.org/mge.png"
+
+[[CURRENCIES]]
+code="MPE"
+status="live"
+display_decimals=2
+issuer="GDR7ZWCRVXYOML52457TZGRYMCQ6G6MBQXL4VNVQN4XSUMI4QQLDMMPE"
+anchor_asset_type="crypto"
+name="Marriott Platinum Elite"
+desc="Marriott Hotels & Resorts is Marriott International's brand of full-service hotels and resorts."
+image="https://www.marriottxlm.org/mpe.png"
+
+[[CURRENCIES]]
+code="RITZ"
+status="live"
+display_decimals=2
+issuer="GBLGPPPLB5SOCOBKEIECJEX2CQ2QZ3Y6CXZ2ZH2WRNVPXK76RGC4RITZ"
+anchor_asset_type="crypto"
+name="Ritz-Carlton"
+desc="The Ritz-Carlton Hotel Company, LLC is an American multinational company that operates the luxury hotel chain known as The Ritz-Carlton."
+image="https://www.marriottxlm.org/ritz.png"
+
