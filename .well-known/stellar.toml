@@ -1,78 +1,20 @@
 VERSION="2.2.1"
 
-ACCOUNTS=[
-"GB3BCG256DVWGBKEYMB2PEMUCHQYLAG7PBULLEFP73FSQTLY4VCQLQN2",
-"GCL62M7543AFSHALW2B7HJXIHB75NYOU4PZYOZMOYAOZCKCRI3S4F7EH",
-"GBI2W5CHBWAL2ACQVIE64RKW3WUUIHSIMACSRQ77RBDEMSLT6IBDKI5A",
-"GA3QHC2OXITTHJOG4WBUONCRWDHLJG3LWFN72LANT6OBD4UYG2RTBMOF",
-"GDR7ZWCRVXYOML52457TZGRYMCQ6G6MBQXL4VNVQN4XSUMI4QQLDMMPE",
-"GBLGPPPLB5SOCOBKEIECJEX2CQ2QZ3Y6CXZ2ZH2WRNVPXK76RGC4RITZ",
-]
+ACCOUNTS=["GAT2MFNTMYT6EXA5V47UX4KL6XPKD6A7UZL7Z6FFAZGXKT5LSHHMVWGE"]
 
 [DOCUMENTATION]
-ORG_NAME="Marriott"
-ORG_URL="https://www.marriottxlm.org/"
-ORG_DESCRIPTION="Marriott Hotels & Resorts is Marriott International's brand of full-service hotels and resorts."
-ORG_LOGO="https://www.marriottxlm.org/mrt.png"
+ORG_NAME="NedBank"
+ORG_URL="https://www.stellarned.com/"
+ORG_DESCRIPTION="Nedbank Group is a financial services group in South Africa offering wholesale and retail banking services as well as insurance, asset management, and wealth management."
+ORG_LOGO="https://www.stellarned.com/ned.png"
 
 
 [[CURRENCIES]]
-code="Marriott"
-status="live"
-display_decimals=2
-issuer="GB3BCG256DVWGBKEYMB2PEMUCHQYLAG7PBULLEFP73FSQTLY4VCQLQN2"
-anchor_asset_type="crypto"
-name="Marriott"
-desc="Marriott Hotels & Resorts is Marriott International's brand of full-service hotels and resorts."
-image="https://www.marriottxlm.org/mrt.png"
-
-[[CURRENCIES]]
-code="MBR"
-status="live"
-display_decimals=3
-issuer="GCL62M7543AFSHALW2B7HJXIHB75NYOU4PZYOZMOYAOZCKCRI3S4F7EH"
-anchor_asset_type="crypto"
-name="Marriott Member"
-desc="Marriott Hotels & Resorts is Marriott International's brand of full-service hotels and resorts."
-image="https://www.marriottxlm.org/mbr.png"
-
-[[CURRENCIES]]
-code="MSE"
+code="NEDBANK"
 status="live"
 display_decimals=4
-issuer="GBI2W5CHBWAL2ACQVIE64RKW3WUUIHSIMACSRQ77RBDEMSLT6IBDKI5A"
+issuer="GAT2MFNTMYT6EXA5V47UX4KL6XPKD6A7UZL7Z6FFAZGXKT5LSHHMVWGE"
 anchor_asset_type="crypto"
-name="Marriott Silver Elite"
-desc="Marriott Hotels & Resorts is Marriott International's brand of full-service hotels and resorts."
-image="https://www.marriottxlm.org/mse.png"
-
-[[CURRENCIES]]
-code="MGE"
-status="live"
-display_decimals=2
-issuer="GA3QHC2OXITTHJOG4WBUONCRWDHLJG3LWFN72LANT6OBD4UYG2RTBMOF"
-anchor_asset_type="crypto"
-name="Marriott Gold Elite"
-desc="Marriott Hotels & Resorts is Marriott International's brand of full-service hotels and resorts."
-image="https://www.marriottxlm.org/mge.png"
-
-[[CURRENCIES]]
-code="MPE"
-status="live"
-display_decimals=2
-issuer="GDR7ZWCRVXYOML52457TZGRYMCQ6G6MBQXL4VNVQN4XSUMI4QQLDMMPE"
-anchor_asset_type="crypto"
-name="Marriott Platinum Elite"
-desc="Marriott Hotels & Resorts is Marriott International's brand of full-service hotels and resorts."
-image="https://www.marriottxlm.org/mpe.png"
-
-[[CURRENCIES]]
-code="RITZ"
-status="live"
-display_decimals=2
-issuer="GBLGPPPLB5SOCOBKEIECJEX2CQ2QZ3Y6CXZ2ZH2WRNVPXK76RGC4RITZ"
-anchor_asset_type="crypto"
-name="Ritz-Carlton"
-desc="The Ritz-Carlton Hotel Company, LLC is an American multinational company that operates the luxury hotel chain known as The Ritz-Carlton."
-image="https://www.marriottxlm.org/ritz.png"
-
+name="NedBank"
+desc="Nedbank Group is a financial services group in South Africa offering wholesale and retail banking services as well as insurance, asset management, and wealth management."
+image="https://www.stellarned.com/ned.png"
