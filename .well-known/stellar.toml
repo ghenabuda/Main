@@ -1,20 +1,20 @@
 VERSION="2.2.1"
 
-ACCOUNTS=["GAT2MFNTMYT6EXA5V47UX4KL6XPKD6A7UZL7Z6FFAZGXKT5LSHHMVWGE"]
+ACCOUNTS=["GAWWCC35HF376MTL3OUMOV2MH3R7HUQN7GYYHGSXJXXGZEHWOM5VYDNK"]
 
 [DOCUMENTATION]
-ORG_NAME="NedBank"
-ORG_URL="https://www.stellarned.com/"
-ORG_DESCRIPTION="Nedbank Group is a financial services group in South Africa offering wholesale and retail banking services as well as insurance, asset management, and wealth management."
-ORG_LOGO="https://www.stellarned.com/ned.png"
+ORG_NAME="ITER Organisation"
+ORG_URL="https://www.iterstellar.org/"
+ORG_DESCRIPTION="TER is the world's largest fusion experiment. Thirty-five nations are collaborating to build and operate the ITER Tokamak"
+ORG_LOGO="https://www.iterstellar.org/iter.png"
 
 
 [[CURRENCIES]]
-code="NEDBANK"
+code="ITER"
 status="live"
-display_decimals=4
-issuer="GAT2MFNTMYT6EXA5V47UX4KL6XPKD6A7UZL7Z6FFAZGXKT5LSHHMVWGE"
+display_decimals=2
+issuer="GAWWCC35HF376MTL3OUMOV2MH3R7HUQN7GYYHGSXJXXGZEHWOM5VYDNK"
 anchor_asset_type="crypto"
-name="NedBank"
-desc="Nedbank Group is a financial services group in South Africa offering wholesale and retail banking services as well as insurance, asset management, and wealth management."
-image="https://www.stellarned.com/ned.png"
+name="ITER Org"
+desc="TER is the world's largest fusion experiment. Thirty-five nations are collaborating to build and operate the ITER Tokamak"
+image="https://www.iterstellar.org/iter.png"
